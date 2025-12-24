@@ -1,0 +1,15 @@
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\bin\Debug\net8.0\必备知识点_控制台相关.exe
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\bin\Debug\net8.0\必备知识点_控制台相关.deps.json
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\bin\Debug\net8.0\必备知识点_控制台相关.runtimeconfig.json
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\bin\Debug\net8.0\必备知识点_控制台相关.dll
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\bin\Debug\net8.0\必备知识点_控制台相关.pdb
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.AssemblyInfoInputs.cache
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.AssemblyInfo.cs
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.csproj.CoreCompileInputs.cache
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.sourcelink.json
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.dll
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\obj\Debug\net8.0\refint\必备知识点_控制台相关.dll
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.pdb
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.genruntimeconfig.cache
+D:\code\CSharp\Practice_1\必备知识点_控制台相关\obj\Debug\net8.0\ref\必备知识点_控制台相关.dll
